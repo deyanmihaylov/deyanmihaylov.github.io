@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Deyan Mihaylov's pages"
+title                    : "Deyan's academic pages"
 title_separator          : "-"
-name                     : &name "Deyan Mihaylov"
+name                     : &name "Deyan P. Mihaylov"
 description              : &description "personal description"
 url                      : https://deyanmihaylov.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,29 +21,29 @@ repository               : "deyanmihaylov/deyanmihaylov.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Deyan Mihaylov"
+  avatar           : "deyan.jpg"
+  name             : "Deyan P. Mihaylov"
   pronouns         : # example: "she/her"  
   bio              : "Gravitational wave astrophysicist"
   location         : "Cleveland, OH"
   employer         : "Case Western Reserve University"
-  uri              : # URL
+  uri              : "deyanmihaylov.net"
   email            : "deyan.mihaylov@case.edu" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  arxiv            : "https://arxiv.org/search/?query=Mihaylov%2C+D.+P.&searchtype=author"
+  googlescholar    : "https://scholar.google.com/citations?user=x8B7JpcAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
+  orcid            : "https://orcid.org/0000-0002-8820-407X"
+  semantic         : "https://www.semanticscholar.org/author/D.-Mihaylov/49158725"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Deyan-Mihaylov-2"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "deyanmihaylov"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "deyanmihaylov"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
