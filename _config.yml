@@ -12,7 +12,7 @@ title                    : "Deyan's academic pages"
 title_separator          : "-"
 name                     : &name "Deyan P. Mihaylov"
 description              : &description "personal description"
-url                      : https://deyanmihaylov.github.io
+url                      : https://deyanmihaylov.net
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "deyanmihaylov/deyanmihaylov.github.io"
 
