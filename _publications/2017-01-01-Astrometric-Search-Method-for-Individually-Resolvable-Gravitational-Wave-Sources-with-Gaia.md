@@ -1,6 +1,7 @@
 ---
 title: "Astrometric Search Method for Individually Resolvable Gravitational Wave Sources with Gaia"
 collection: publications
+category: manuscripts
 permalink: /publication/2017-01-01-Astrometric-Search-Method-for-Individually-Resolvable-Gravitational-Wave-Sources-with-Gaia
 date: 2017-01-01
 venue: 'Phys. Rev. Lett.'
