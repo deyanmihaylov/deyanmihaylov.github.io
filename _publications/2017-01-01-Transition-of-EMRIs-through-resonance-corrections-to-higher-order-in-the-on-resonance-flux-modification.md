@@ -1,6 +1,7 @@
 ---
 title: "Transition of EMRIs through resonance: corrections to higher order in the on-resonance flux modification"
 collection: publications
+category: manuscripts
 permalink: /publication/2017-01-01-Transition-of-EMRIs-through-resonance-corrections-to-higher-order-in-the-on-resonance-flux-modification
 date: 2017-01-01
 venue: 'J. Math. Phys.'
