@@ -1,6 +1,7 @@
 ---
 title: "Enhancing the SEOBNRv5 effective-one-body waveform model with second-order gravitational self-force fluxes"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-01-01-Enhancing-the-SEOBNRv5-effective-one-body-waveform-model-with-second-order-gravitational-self-force-fluxes
 date: 2023-01-01
 venue: 'Phys. Rev. D'

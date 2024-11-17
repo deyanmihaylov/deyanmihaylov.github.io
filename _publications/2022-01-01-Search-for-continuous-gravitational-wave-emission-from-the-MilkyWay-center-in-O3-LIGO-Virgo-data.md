@@ -1,6 +1,7 @@
 ---
 title: "Search for continuous gravitational wave emission from the Milky~Way center in O3 LIGO-Virgo data"
 collection: publications
+category: manuscripts
 permalink: /publication/2022-01-01-Search-for-continuous-gravitational-wave-emission-from-the-MilkyWay-center-in-O3-LIGO-Virgo-data
 date: 2022-01-01
 venue: 'Phys. Rev. D'

@@ -1,6 +1,7 @@
 ---
 title: "Cosmic topology. Part IIIa. Microwave background parity violation without parity-violating microphysics"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-01-01-Cosmic-topology-Part-IIIa-Microwave-background-parity-violation-without-parity-violating-microphysics
 date: 2024-01-01
 venue: 'JCAP'

@@ -1,6 +1,7 @@
 ---
 title: "Promise of Future Searches for Cosmic Topology"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-01-01-Promise-of-Future-Searches-for-Cosmic-Topology
 date: 2024-01-01
 venue: 'Phys. Rev. Lett.'

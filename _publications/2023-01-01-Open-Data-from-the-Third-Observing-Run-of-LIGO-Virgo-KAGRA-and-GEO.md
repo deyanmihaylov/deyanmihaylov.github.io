@@ -1,6 +1,7 @@
 ---
 title: "Open Data from the Third Observing Run of LIGO, Virgo, KAGRA, and GEO"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-01-01-Open-Data-from-the-Third-Observing-Run-of-LIGO-Virgo-KAGRA-and-GEO
 date: 2023-01-01
 venue: 'Astrophys. J. Suppl.'

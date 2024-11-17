@@ -1,6 +1,7 @@
 ---
 title: "First joint observation by the underground gravitational-wave detector KAGRA with GEO 600"
 collection: publications
+category: manuscripts
 permalink: /publication/2022-01-01-First-joint-observation-by-the-underground-gravitational-wave-detector-KAGRA-with-GEO-600
 date: 2022-01-01
 venue: 'PTEP'

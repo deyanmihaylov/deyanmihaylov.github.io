@@ -1,6 +1,7 @@
 ---
 title: "Laying the foundation of the effective-one-body waveform models SEOBNRv5: Improved accuracy and efficiency for spinning nonprecessing binary black holes"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-01-01-Laying-the-foundation-of-the-effective-one-body-waveform-models-SEOBNRv5-Improved-accuracy-and-efficiency-for-spinning-nonprecessing-binary-black-holes
 date: 2023-01-01
 venue: 'Phys. Rev. D'

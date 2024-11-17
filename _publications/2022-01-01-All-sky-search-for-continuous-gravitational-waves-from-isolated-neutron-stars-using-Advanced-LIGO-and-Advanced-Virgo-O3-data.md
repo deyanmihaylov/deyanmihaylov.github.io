@@ -1,6 +1,7 @@
 ---
 title: "All-sky search for continuous gravitational waves from isolated neutron stars using Advanced LIGO and Advanced Virgo O3 data"
 collection: publications
+category: manuscripts
 permalink: /publication/2022-01-01-All-sky-search-for-continuous-gravitational-waves-from-isolated-neutron-stars-using-Advanced-LIGO-and-Advanced-Virgo-O3-data
 date: 2022-01-01
 venue: 'Phys. Rev. D'

@@ -1,6 +1,7 @@
 ---
 title: "Extremal Kerr black hole dark matter from Hawking evaporation"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-01-01-Extremal-Kerr-black-hole-dark-matter-from-Hawking-evaporation
 date: 2024-01-01
 venue: 'Phys. Rev. D'

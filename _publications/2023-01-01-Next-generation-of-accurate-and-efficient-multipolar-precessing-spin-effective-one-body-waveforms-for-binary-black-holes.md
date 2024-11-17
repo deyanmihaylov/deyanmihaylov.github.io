@@ -1,6 +1,7 @@
 ---
 title: "Next generation of accurate and efficient multipolar precessing-spin effective-one-body waveforms for binary black holes"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-01-01-Next-generation-of-accurate-and-efficient-multipolar-precessing-spin-effective-one-body-waveforms-for-binary-black-holes
 date: 2023-01-01
 venue: 'Phys. Rev. D'

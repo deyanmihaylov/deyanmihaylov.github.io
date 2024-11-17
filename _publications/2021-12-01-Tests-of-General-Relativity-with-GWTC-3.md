@@ -1,6 +1,7 @@
 ---
 title: "Tests of General Relativity with GWTC-3"
 collection: publications
+category: manuscripts
 permalink: /publication/2021-12-01-Tests-of-General-Relativity-with-GWTC-3
 date: 2021-12-01
 venue: 'Phys. Rev. D'

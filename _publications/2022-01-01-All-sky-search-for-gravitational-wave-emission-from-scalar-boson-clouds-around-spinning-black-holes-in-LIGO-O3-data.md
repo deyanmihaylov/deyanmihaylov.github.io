@@ -1,6 +1,7 @@
 ---
 title: "All-sky search for gravitational wave emission from scalar boson clouds around spinning black holes in LIGO O3 data"
 collection: publications
+category: manuscripts
 permalink: /publication/2022-01-01-All-sky-search-for-gravitational-wave-emission-from-scalar-boson-clouds-around-spinning-black-holes-in-LIGO-O3-data
 date: 2022-01-01
 venue: 'Phys. Rev. D'

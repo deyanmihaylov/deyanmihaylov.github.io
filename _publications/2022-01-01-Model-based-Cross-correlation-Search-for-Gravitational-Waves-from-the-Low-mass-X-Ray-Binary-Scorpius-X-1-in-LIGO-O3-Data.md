@@ -1,6 +1,7 @@
 ---
 title: "Model-based Cross-correlation Search for Gravitational Waves from the Low-mass X-Ray Binary Scorpius X-1 in LIGO O3 Data"
 collection: publications
+category: manuscripts
 permalink: /publication/2022-01-01-Model-based-Cross-correlation-Search-for-Gravitational-Waves-from-the-Low-mass-X-Ray-Binary-Scorpius-X-1-in-LIGO-O3-Data
 date: 2022-01-01
 venue: 'Astrophys. J. Lett.'

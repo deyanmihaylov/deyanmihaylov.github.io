@@ -1,6 +1,7 @@
 ---
 title: "Fast post-adiabatic waveforms in the time domain: Applications to compact binary coalescences in LIGO and Virgo"
 collection: publications
+category: manuscripts
 permalink: /publication/2021-01-01-Fast-post-adiabatic-waveforms-in-the-time-domain-Applications-to-compact-binary-coalescences-in-LIGO-and-Virgo
 date: 2021-01-01
 venue: 'Phys. Rev. D'

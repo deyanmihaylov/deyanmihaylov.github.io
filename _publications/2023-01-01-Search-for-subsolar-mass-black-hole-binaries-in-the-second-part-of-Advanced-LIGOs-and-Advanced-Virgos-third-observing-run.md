@@ -1,6 +1,7 @@
 ---
 title: "Search for subsolar-mass black hole binaries in the second part of Advanced LIGO&apos;s and Advanced Virgo&apos;s third observing run"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-01-01-Search-for-subsolar-mass-black-hole-binaries-in-the-second-part-of-Advanced-LIGOs-and-Advanced-Virgos-third-observing-run
 excerpt: '[Erratum: Mon.Not.Roy.Astron.Soc. 526, 6234 (2023)]'
 date: 2023-01-01

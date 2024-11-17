@@ -1,6 +1,7 @@
 ---
 title: "Constraints on the Cosmic Expansion History from GWTCtextendash3"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-01-01-Constraints-on-the-Cosmic-Expansion-History-from-GWTCtextendash3
 date: 2023-01-01
 venue: 'Astrophys. J.'

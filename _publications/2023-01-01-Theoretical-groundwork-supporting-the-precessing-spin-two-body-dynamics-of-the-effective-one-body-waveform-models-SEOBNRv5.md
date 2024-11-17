@@ -1,6 +1,7 @@
 ---
 title: "Theoretical groundwork supporting the precessing-spin two-body dynamics of the effective-one-body waveform models SEOBNRv5"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-01-01-Theoretical-groundwork-supporting-the-precessing-spin-two-body-dynamics-of-the-effective-one-body-waveform-models-SEOBNRv5
 date: 2023-01-01
 venue: 'Phys. Rev. D'

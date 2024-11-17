@@ -1,6 +1,7 @@
 ---
 title: "A Joint Fermi-GBM and Swift-BAT Analysis of Gravitational-wave Candidates from the Third Gravitational-wave Observing Run"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-01-01-A-Joint-Fermi-GBM-and-Swift-BAT-Analysis-of-Gravitational-wave-Candidates-from-the-Third-Gravitational-wave-Observing-Run
 date: 2024-01-01
 venue: 'Astrophys. J.'
