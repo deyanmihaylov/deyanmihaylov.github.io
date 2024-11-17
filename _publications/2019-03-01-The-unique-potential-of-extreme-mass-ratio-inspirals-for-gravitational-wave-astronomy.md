@@ -1,7 +1,6 @@
 ---
 title: "The unique potential of extreme mass-ratio inspirals for gravitational-wave astronomy"
 collection: publications
-category: manuscripts
 permalink: /publication/2019-03-01-The-unique-potential-of-extreme-mass-ratio-inspirals-for-gravitational-wave-astronomy
 date: 2019-03-01
 venue: 'Astro2020 White Paper'

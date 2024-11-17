@@ -1,7 +1,6 @@
 ---
 title: "Astrometric effects of gravitational wave backgrounds with nonluminal propagation speeds"
 collection: publications
-category: manuscripts
 permalink: /publication/2020-01-01-Astrometric-effects-of-gravitational-wave-backgrounds-with-nonluminal-propagation-speeds
 date: 2020-01-01
 venue: 'Phys. Rev. D'

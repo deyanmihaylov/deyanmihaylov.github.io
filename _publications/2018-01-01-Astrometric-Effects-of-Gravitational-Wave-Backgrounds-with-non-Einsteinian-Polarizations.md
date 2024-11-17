@@ -1,7 +1,6 @@
 ---
 title: "Astrometric Effects of Gravitational Wave Backgrounds with non-Einsteinian Polarizations"
 collection: publications
-category: manuscripts
 permalink: /publication/2018-01-01-Astrometric-Effects-of-Gravitational-Wave-Backgrounds-with-non-Einsteinian-Polarizations
 date: 2018-01-01
 venue: 'Phys. Rev. D'
